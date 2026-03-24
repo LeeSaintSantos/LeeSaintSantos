@@ -41,15 +41,3 @@ Skills: Linux fundamentals, CLI workflows, system hardening.
 🔹 Networking Fundamentals (Packet Tracer) <br/>
 Subnetting, VLANs, routing, switching, and topology design.  
 Skills: CCNA-aligned networking concepts.
-
----
-
-📝 Documentation Style
-Every project includes:  
-- Overview & Objectives  
-- Environment Setup  
-- Step-by-Step Procedures  
-- Screenshots & Config Snippets  
-- Troubleshooting Notes  
-- Lessons Learned  
-- Future Improvements
