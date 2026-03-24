@@ -1,6 +1,6 @@
 <h2>🌐 Aliyah’s IT Portfolio & Homelab Journey<br/><h2>
-Documenting my path from hands‑on learner to IT professional — one lab, one commit, one system at a time.
-
+Documenting my path from hands‑on learner to IT professional — one lab, one commit, one system at a time. <br/>
+ <br/>
 Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area. I balance overnight shifts, evening classes, and a growing homelab where I break things on purpose and document how I fix them. This GitHub is my living portfolio: real labs, real troubleshooting, real growth.
 
 ---
