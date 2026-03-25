@@ -9,7 +9,7 @@ Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area
 
 🚀 What I’m Working On
 - Building a VM-heavy homelab (Windows, Linux, AD, networking labs)  
-- Studying for CompTIA Tech+, A+, Network+, and Cisco CCNA  
+- Studying for CompTIA A+, Network+, and Cisco CCNA  
 - Creating documentation with clear steps, screenshots, and configs  
 - Developing repeatable templates for IT workflows and systems  
 - Strengthening fundamentals in hardware, virtualization, networking, and system administration  
