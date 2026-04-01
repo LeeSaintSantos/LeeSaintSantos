@@ -4,6 +4,10 @@
 Documenting my path from hands‑on learner to IT professional — one lab, one commit, one system at a time. <br/>
  <br/>
 Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area. I balance overnight shifts, evening classes, and a growing homelab where I break things on purpose and document how I fix them. This GitHub is my living portfolio: real labs, real troubleshooting, real growth.
+---
+
+ ## Certifications
+CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
 
 ---
 
@@ -25,6 +29,17 @@ Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area
 | Scripting | PowerShell, Bash |
 | Version Control | Git & GitHub |
 | Homelab Hardware | ThinkPad T480 |
+
+---
+
+## Projects
+| Project | Domain | Tools | Status |
+|---|---|---|---|
+| VM Homelab Setup | Virtualization | VirtualBox, Windows 11 | ✅ |
+| SOHO Network Diagram | Networking | draw.io | ✅ |
+| Malware Removal SOP | Security | Markdown | ✅ |
+| Subnet Calculator | IP Addressing | Python | ✅ |
+| Wireshark Captures | Troubleshooting | Wireshark | ✅ |
 
 ---
 
