@@ -1,5 +1,5 @@
 <h2>🌐 Aliyah’s IT Portfolio & Homelab Journey<br/><h2>
- <br/><a href="https://github.com/LeeSaintSantos/Home-Lab-Infrastructure">Home Lab infrastructure</a>, <a href="https://www.linkedin.com/in/aliyahsantos/">IT Support & Network Technician</a><br/>
+ <br/><a href="https://github.com/LeeSaintSantos/Home-Lab-Infrastructure">Home Lab Infrastructure</a>, <a href="https://www.linkedin.com/in/aliyahsantos/">IT Support & Network Technician</a><br/>
  <br/>
 Documenting my path from hands‑on learner to IT professional — one lab, one commit, one system at a time. <br/>
  <br/>
@@ -35,7 +35,7 @@ CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
 🏗️ Projects
 | Project | Domain | Status |
 |---|---|---|
-| VM Homelab Setup | Virtualization | 🔄 In progress |
+| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | 🔄 In progress |
 | SOHO Network Diagram | Networking | ⏳ Upcoming |
 | Malware Removal SOP | Security | ⏳ Upcoming |
 | Subnet Calculator | IP Addressing | ⏳ Upcoming |
