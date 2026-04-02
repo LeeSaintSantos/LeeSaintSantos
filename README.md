@@ -3,10 +3,10 @@
  <br/>
 Documenting my path from hands‑on learner to IT professional — one lab, one commit, one system at a time. <br/>
  <br/>
-Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area. I balance overnight shifts, evening classes, and a growing homelab where I break things on purpose and document how I fix them. This GitHub is my living portfolio: real labs, real troubleshooting, real growth.
+Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area. I balance overnight shifts, evening classes, and a growing homelab where I break things on purpose and document how I fix them. This GitHub is my living portfolio: real labs, real troubleshooting, real growth.<br/><br/>
 ---
 
- ## Certifications
+🎓 Certifications<br/><br/>
 CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
 
 ---
@@ -32,18 +32,18 @@ CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
 
 ---
 
-## Projects
-| Project | Domain | Tools | Status |
-|---|---|---|---|
-| VM Homelab Setup | Virtualization | VirtualBox, Windows 11 | ✅ |
-| SOHO Network Diagram | Networking | draw.io | ✅ |
-| Malware Removal SOP | Security | Markdown | ✅ |
-| Subnet Calculator | IP Addressing | Python | ✅ |
-| Wireshark Captures | Troubleshooting | Wireshark | ✅ |
+🏗️ Projects
+| Project | Domain | Status |
+|---|---|---|
+| VM Homelab Setup | Virtualization | 🔄 In progress |
+| SOHO Network Diagram | Networking | ⏳ Upcoming |
+| Malware Removal SOP | Security | ⏳ Upcoming |
+| Subnet Calculator | IP Addressing | ⏳ Upcoming |
+| Wireshark Captures | Troubleshooting | ⏳ Upcoming |
 
 ---
 
-📘 Featured Projects
+⏳ Upcoming Projects
 
 🔹 Active Directory Home Lab <br/>
 A full AD environment built from scratch, including domain setup, user provisioning, GPOs, and troubleshooting logs.  
