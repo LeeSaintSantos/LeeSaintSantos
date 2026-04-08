@@ -7,7 +7,7 @@ Welcome! I’m Aliyah, an aspiring Cloud Engineer based in the Philadelphia area
 ---
 
 🎓 Certifications<br/><br/>
-CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
+CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯 | CCNA 🎯 | Security+ 🎯
 
 ---
 
@@ -33,14 +33,13 @@ CompTIA Tech+ ✅  |  A+ Core 1 🎯  |  A+ Core 2 🎯  |  Network+ 🎯
 ---
 
 🏗️ Projects
-| Project | Domain | Status |
-|---|---|---|
-| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | 🔄 In progress |
-| SOHO Network Diagram | Networking | ⏳ Upcoming |
-| Malware Removal SOP | Security | ⏳ Upcoming |
-| Subnet Calculator | IP Addressing | ⏳ Upcoming |
-| Wireshark Captures | Troubleshooting | ⏳ Upcoming |
-
+| Project | Domain | Tools |Status |
+|---|---|---|---|
+| [VM Homelab Setup](https://github.com/LeeSaintSantos/Home-Lab-Infrastructure/tree/main/a-plus-core1/vm-setup) | Virtualization | VirtualBox, Ubuntu, Windows 11 | ✅ Completed |
+| SOHO Network Diagram | Networking | app.diagrams.net | ⏳ Upcoming |
+| Malware Removal SOP | Security | Markdown | ⏳ Upcoming |
+| Subnet Calculator | IP Addressing | Python | ⏳ Upcoming |
+| Wireshark Captures | Troubleshooting | Wireshark | ⏳ Upcoming |
 ---
 
 ⏳ Upcoming Projects
